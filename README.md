@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, world!<br><br>I’m passionate about front-end and back-end development, combining creativity and logic to build amazing web applications.<br><br>💻 Currently, I’m in my third year at the Instituto Técnico Ricaldone, advancing my knowledge in software development.<br><br>📈 I’m also gaining professional experience while completing work hours at eMKT Company, where I apply and refine my skills in real-world projects.<br><br>🚀 Let’s connect and create something great together!
+👋 Hello, world!<br><br>I’m passionate about front-end and back-end development, combining creativity and logic to build amazing web applications.<br><br>💻 Currently, I’m in my third year at the Instituto Técnico Ricaldone, advancing my knowledge in software development.<br><br>📈 
 
 
 ## 🌐 Socials:
