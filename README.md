@@ -1,5 +1,16 @@
-# 💫 About Me:
-👋 Hello, world!<br><br>I'm passionate about front-end and back-end development, combining creativity and logic to build amazing web applications.<br><br>💻 Currently, I'm in my third year at the Instituto Técnico Ricaldone, advancing my knowledge in software development.<br><br>📈 
+💫 About Me:
+
+👋 Hello, world!
+
+I'm passionate about front-end and back-end development, combining creativity and logic to build amazing web applications.
+
+💻 I studied Software Development at Instituto Técnico Ricaldone, where I built a strong foundation in programming and web technologies.
+
+🎓 Currently, I'm in my first year of Computer Science Engineering at Universidad Don Bosco, continuing to expand my knowledge in software development and technology.
+
+🏢 I also work as a Systems Implementer at Grupo PH, where I help implement and manage technological solutions for different systems.
+
+🚀 I'm always motivated to keep learning, improving my skills, and building efficient and innovative solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gggerm4n/) 
